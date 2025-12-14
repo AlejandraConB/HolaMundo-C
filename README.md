@@ -1,6 +1,8 @@
  ##  📌 Descripción
  
 - Este programa es un ejemplo básico que imprime el mensaje "Hello World" en la salida estándar (generalmente la pantalla). Es ampliamente utilizado como primer programa para aprender un nuevo lenguaje de programación, ya que introduce conceptos fundamentales como la estructura básica de un programa en C, el uso de bibliotecas estándar y la función principal de ejecución.
+ 
+## 🖥️ Tecnologías Utilizadas:
 
 - Lenguaje programación C
 - Visual Studio Code
