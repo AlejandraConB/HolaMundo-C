@@ -12,6 +12,18 @@
  - Propósito: Define la función principal del programa, punto de entrada obligatorio.
  - Tipo de retorno: int indica que la función devuelve un valor entero al sistema operativo.
  - Alternativas válidas: int main(void) (más estricto según el estándar C11).
+
+#### 3. printf("Hello World\n");
+ - Propósito: Imprime una cadena de texto en la salida estándar.
+ - printf() es una función de la biblioteca stdio.h.
+ - \n representa un salto de línea (newline).
+ - La cadena debe estar entre comillas dobles.
+ - La sentencia termina con punto y coma (;), como todas en C.
+
+#### 4. return 0;
+ - Propósito: Indica que el programa finalizó correctamente.
+ - Convención: Un valor de retorno 0 significa éxito; cualquier otro valor suele indicar un error.
+ - Alternativa: Se puede usar return EXIT_SUCCESS; si se incluye <stdlib.h>.
  
 ## 🖥️ Tecnologías Utilizadas:
 
