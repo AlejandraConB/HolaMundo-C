@@ -1,6 +1,12 @@
  ##  📌 Descripción
  
 - Este programa es un ejemplo básico que imprime el mensaje "Hello World" en la salida estándar (generalmente la pantalla). Es ampliamente utilizado como primer programa para aprender un nuevo lenguaje de programación, ya que introduce conceptos fundamentales como la estructura básica de un programa en C, el uso de bibliotecas estándar y la función principal de ejecución.
+
+## 🚀 Estructura del Código
+1. #include <stdio.h>
+ - Propósito: Incluye el archivo de cabecera de la biblioteca estándar de entrada/salida (Standard Input/Output Header).
+ - Funcionalidad: Permite el uso de funciones como printf() y scanf().
+ - Nota: El preprocesador copia el contenido de stdio.h antes de la compilación.
  
 ## 🖥️ Tecnologías Utilizadas:
 
